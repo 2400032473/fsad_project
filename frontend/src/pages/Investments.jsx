@@ -111,3 +111,5 @@ export default function Investments() {
     </div>
   );
 }
+
+// Update: Add unit tests for calculation utilities
