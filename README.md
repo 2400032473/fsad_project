@@ -34,3 +34,5 @@ npm run dev
 ## Tech Stack
 - **Backend**: Java 17, Spring Boot, Spring Security (JWT), Spring Data JPA, MySQL.
 - **Frontend**: React, Axios, React Router.
+
+<!-- Update: Update dependency versions in pom.xml -->
