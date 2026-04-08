@@ -36,3 +36,5 @@ npm run dev
 - **Frontend**: React, Axios, React Router.
 
 <!-- Update: Update dependency versions in pom.xml -->
+
+<!-- Update: Add helper methods for fund comparison -->
