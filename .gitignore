@@ -31,3 +31,5 @@ desktop.ini
 maven-mvnd-1.0.5-windows-amd64/
 
 <!-- Update: Add logging to Login flow -->
+
+<!-- Update: Improve error handling in Register page -->
