@@ -78,3 +78,5 @@ export default function Navbar() {
     </nav>
   );
 }
+
+// Update: Update README with project goals
