@@ -207,3 +207,5 @@ export default function FundDetail() {
     </div>
   );
 }
+
+// Update: Update axios configuration for production
