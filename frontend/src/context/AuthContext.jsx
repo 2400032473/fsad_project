@@ -56,3 +56,5 @@ export function useAuth() {
 }
 
 // Update: Add logging to Login flow
+
+// Update: Tweak transition animations in frontend
