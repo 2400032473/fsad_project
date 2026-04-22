@@ -106,3 +106,5 @@ export default function Reports() {
     </div>
   );
 }
+
+// Update: Add unit tests for calculation utilities
