@@ -113,3 +113,5 @@ export default function Investments() {
 }
 
 // Update: Add unit tests for calculation utilities
+
+// Update: Update axios configuration for production
