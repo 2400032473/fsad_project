@@ -89,3 +89,5 @@ export default function Register() {
 // Update: Clean up unused imports in backend
 
 // Update: Add Javadoc to backend services
+
+// Update: Update database schema documentation
